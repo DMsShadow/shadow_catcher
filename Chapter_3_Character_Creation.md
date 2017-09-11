@@ -127,4 +127,4 @@ These new hindrances should be in keeping with your character’s premise or exp
  
 The GM is the final arbiter in what can and can’t be taken as these hindrances, but the decision should be made collaboratively and with some degree of flexibility.
 
-_In our example, Joe has made Valar good at shadowing, but during the adventure he failed in his attempt to bluff his way past some guards. Also, Valar had a run in with the local thieves guild who are none too pleased about an unregistered thief running around. Therefore he adds **“Not good at bluffing”** and “Has a poor relationship with the Thieves Guild” to his hindrances._
+_In our example, Joe has made Valar good at shadowing, but during the adventure he failed in his attempt to bluff his way past some guards. Also, Valar had a run in with the local thieves guild who are none too pleased about an unregistered thief running around. Therefore he adds **“Not good at bluffing”** and **“Has a poor relationship with the Thieves Guild”** to his hindrances._
