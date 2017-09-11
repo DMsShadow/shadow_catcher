@@ -70,7 +70,7 @@ Unlike advantages above, possessions by their nature should have very specific d
 
 Unlike the other advantages, possessions like this can only be given out by the GM either as gifts from other characters, or as rewards for mission, quests etc. Again, these possessions are at the GMs discretion.
 
-Step 6: Create four Hindrances
+### Step 6: Create four Hindrances
 
 As an opposition to your advantages you should now create four hindrances for your character (one for each advantage, excluding your special possession). The important thing to consider here is that these are not your character’s flaws so much as things they are not good at, but which they want to be better at.
 
