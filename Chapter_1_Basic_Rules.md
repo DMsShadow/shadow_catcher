@@ -28,7 +28,7 @@ _Combined Advantages and Hindrances_: If a situation arises whereby both a hindr
 If an ability has become hampered then you can still use it, but is treated as if it had a hindrance (i.e. roll 3D6 and keep the lowest two), even if you have an advantage you could call to aid in the situation.
 Advantages that have become hampered cannot be called at all until they are recovered.
 
-### Degrees of Success
+#### Degrees of Success
 
 As already stated, roll a 10 or higher is a success, and anything below 10 is a failure. However, there are two more degrees of success or failure that can apply. If a player rolls a double 6 (i.e. both dice roll 6), then you have achieved a critical success and gain a temporary advantage. Conversely, if you roll a double 1, you suffer a critical failure and suffer a temporary hindrance as well as the normal hamper you accrue for failing as explained above. Therefore, the degrees of success for determine the outcome of a test is as follows, from best to worst:
 
@@ -96,7 +96,7 @@ What he could not do, is chose his “Good at swimming” advantage to be hamper
 
 After each test, each participant can chose to continue the test or concede and allow the other to win. If no one concedes, then the contest continues until one participant has been taken out of the scene (see later).
 
-#### Multiple participants and Aiding
+### Multiple participants and Aiding
 
 If there are multiple participants in a test, usually more than one PC trying to achieve the same aim, then one character should be identified as the lead character, and the characters will roll to augment the leads roll.
 
