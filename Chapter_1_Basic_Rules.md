@@ -99,4 +99,4 @@ Again, using this method and opponent can only have their success reduced down a
 
 For more advice on handing multiple participants in contests, see the Game Mastering section later.
 ### Narrative Override
-Most game systems suggest that as the GM, you have the final say on any ambiguities or rules disputes. The spirit of Dreamcatcher is that you should take this much further. As the GM, you shouldn’t let the rules get in the way of your players having a good time. As such, we introduce here the concept of Narrative Override. As the name might suggest to you, this means that you can override the rules of the game, if it is in the interest of making the story a good one.
+Most game systems suggest that as the GM, you have the final say on any ambiguities or rules disputes. The spirit of ShadowCatcher is that you should take this much further. As the GM, you shouldn’t let the rules get in the way of your players having a good time. As such, we introduce here the concept of Narrative Override. As the name might suggest to you, this means that you can override the rules of the game, if it is in the interest of making the story a good one.
