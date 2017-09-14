@@ -1,10 +1,10 @@
 ## Chapter 4: Games Mastering
-This section of the rules is intended to be a helpful resource for GMs when running Dreamcatcher games.
+This section of the rules is intended to be a helpful resource for GMs when running ShadowCatcher games.
 ### Time
-Time in Dreamcatcher is treated more fluidly than many tactical roleplaying games. Instead of rigid turn or rounds, player’s actions take place in scenes that make up part of a chapter or larger story.
+Time in ShadowCatcher is treated more fluidly than many tactical roleplaying games. Instead of rigid turn or rounds, player’s actions take place in scenes that make up part of a chapter or larger story.
 Players have the majority of control over scenes, but the GM should direct them and facilitate the end of scenes to move on to the next scene or the conclusion of the chapter or story.
 #### Scene
-A scene is the shortest measurement of time in Dreamcatcher, but can be anything from a few seconds to several days depending on the situation. A scene is like a scene or chapter of a book. It usually takes place in the same location or area and involves a short interaction with the surroundings or people.
+A scene is the shortest measurement of time in ShadowCatcher, but can be anything from a few seconds to several days depending on the situation. A scene is like a scene or chapter of a book. It usually takes place in the same location or area and involves a short interaction with the surroundings or people.
 A scene may or may not involve a test or contest, but at the very least the players will have to describe what their characters are doing and what they try to achieve in a scene.
 Traditionally, a scene ends when the characters or the GM feels it’s time to move on to a new one. It is likely to be quite clear in practice as to when a scene begins or ends.
 An example of a scene may be the characters going to the King’s audience chamber to petition him for aid in the war against the northern barbarians, or a dramatic car chase through the streets of Paris.
@@ -16,14 +16,14 @@ A story is a collection of scenes that ultimately lead to some final or larger r
 #### Session
 A session does not relate to game time, but is the real life time period in which players get together with the GM to play through scenes or even whole stories. Some actions may only occur between sessions.
 ### Distance and Movement
-Distance in Dreamcatcher is as abstract or as accurate as you want it to be. It is less important during scenes as to exactly how far people can move or shoot, as it is that players are able to describe what they are trying to do. If the GM feels that the goal is not achievable based on the physics of the world then then simply need to say so, if it is simply difficult they can chose to apply a hindrance to the roll if they feel it is appropriate.
+Distance in ShadowCatcher is as abstract or as accurate as you want it to be. It is less important during scenes as to exactly how far people can move or shoot, as it is that players are able to describe what they are trying to do. If the GM feels that the goal is not achievable based on the physics of the world then then simply need to say so, if it is simply difficult they can chose to apply a hindrance to the roll if they feel it is appropriate.
 Larger distances should be handled in whatever way works best with the group. If you want to use accurate maps and realistic measures of movement then feel free, but if you agree to wing it and guestimate travel times then just do that.
-As with most rules in Dreamcatcher, the GM is the final arbiter in what is or isn’t allowed.
+As with most rules in ShadowCatcher, the GM is the final arbiter in what is or isn’t allowed.
 ### Perception
 The world is subject to many things that can affect how well your characters perceive it. Darkness, mist or smoke to name but a few. GMs can use these just from atmospheric effect, or they can be used to create a hindrance for your characters. In some settings, you may be able to obtain equipment or have species traits that can overcome these hindrances.
 All such advantages are to be used at the GMs discretion.
 ### Hampering, Injury and Death
-Any time a character fails a test or is bested in combat, they must hamper either an advantage or an ability. In Dreamcatcher, such hampering constitutes the reduced ability of the character to continue in the story. A character can continue with the story so long as they have at least one ability which isn’t hampered, but if they have all of their abilities hampered, the character is taken out of the scene, or even longer.
+Any time a character fails a test or is bested in combat, they must hamper either an advantage or an ability. In ShadowCatcher, such hampering constitutes the reduced ability of the character to continue in the story. A character can continue with the story so long as they have at least one ability which isn’t hampered, but if they have all of their abilities hampered, the character is taken out of the scene, or even longer.
 #### Hampered Abilities
 Hampered abilities usually, but not always, represent some kind of physical or psychological trauma. Essentially, the character has becomes injured in such a way that they cannot use the ability as well as before.
 As stated previously, hampered abilities can still be used to complete tests, but they do so as if they were being called with a hindrance (i.e. roll 3D6 and use the lowest two dice).
