@@ -23,4 +23,4 @@ The GM may call for an Intelligence test to determine if you know an obscure fac
 ### Perceptive
 Perceptiveness measures how observant and aware of their surroundings a character is. It is used whenever a character may be able to notice something, or pick up on minor details that may be useful to them. This ability covers the physical senses such as sight, hearing, taste and touch.
 #### Tests
-A Perceptiveness test may be called for to spot a hidden trap, hear voices behind a door, or notice bandits waiting in ambush behind dense foliage. Perceptiveness is unlikely to be used to resist any effect, but is more likely to be an opposed roll against an opponent’s attempt to hide or deceive you.
+A Perceptiveness test may be called for to overcome a challenge involving a hidden trap, hear voices behind a door, or notice bandits waiting in ambush behind dense foliage. Perceptiveness can be used in some instances to resist a dynamic challenge effect if an opponent is, for example, attempting to hide or deceive you.
