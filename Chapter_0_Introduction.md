@@ -1,5 +1,6 @@
 ## Introduction
 The Dreamcatcher system is intended to be a rules light generic, modular system with a substantial focus on promoting a narrative style over complex rules. These rules are still in the beta stage, and could change substantially based on feedback.
+
 As with all roleplaying games, Dreamcatcher games take place in your mind, using imagination over boards or computer generated characters. The Games Master (GM) describes scenes and actions of other people within the world to you and your fellow players, and using your imagination you respond by asking questions and describing the actions of your characters in turn. If a contest arises, then your character’s abilities and are used to overcome the challenges presented.
 >“Dreamcatcher games take place in your mind” 
 
