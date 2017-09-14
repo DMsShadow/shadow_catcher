@@ -1,5 +1,10 @@
 ## Chapter 1: Basic Rules
-The core rule of the ShadowCatcher is that you first describe the actions of what you want your character to do. The GM will then determine if the action can simply take place, or if a test might be needed to determine success. A test use one of your character’s abilities and the dice to determine the final result of a proposed action.
+The core concept of the ShadowCatcher system revolees around rules of three, and the first such of these are the three main concepts: characters, tests and challenges. In this section we will explore these in turn, looking first at characters.
+
+### Characters
+In a ShadowCatcher game, each player contorols at least one character. This is the players interface or connection to the game being played, or story being told (depending on how you like to view the experience).
+
+is that you first describe the actions of what you want your character to do. The GM will then determine if the action can simply take place, or if a test might be needed to determine success. A test use one of your character’s abilities and the dice to determine the final result of a proposed action.
 
 As ShadowCatcher works on an approach based system, it is useful to think of your character's actions based on how they would approach the problem. For example, if your character is presented with a locked door, they may choose to use brute strength and Forcefully ram the door, they may be more subtle and Deftly trip the lock, or use their mental prowess and Intelligently find a flaw in the doors mechanism that allows it to be opened. Any of these approaches could feasibly overcome the obstacle, but the approach used by the character can determine the test used, and therefore change the chance of success. For more information on these, see the Ability Score section later.
 ### Tests
