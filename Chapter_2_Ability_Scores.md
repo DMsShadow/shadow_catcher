@@ -25,4 +25,4 @@ Perceptiveness measures how observant and aware of their surroundings a characte
 #### Tests
 A Perceptiveness test may be called for to overcome a challenge involving a hidden trap, hear voices behind a door, or notice bandits waiting in ambush behind dense foliage. Perceptiveness can be used in some instances to resist a dynamic challenge effect if an opponent is, for example, attempting to hide or deceive you.
 
-[comment]: # (This is a test comment)
+[comment]: # (I need to add example hinderances here, I have still not done this)
