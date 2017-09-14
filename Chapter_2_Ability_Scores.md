@@ -1,5 +1,5 @@
 ## Chapter 2: Ability Scores
-All characters have five abilities: Forceful, Deft, Resilient, Intelligent and Perceptive. These represent the various approaches that your character can take in resolving obstacles or completing actions within Dreamcatcher. A character also has a score attached to each ability. Your ability score broadly defines your natural talent and skill in each of the five approaches. The higher your score, the better your character is with that approach. Typically, all non-player characters and creatures also have values in the five ability scores.
+All characters have five abilities: Forceful, Deft, Resilient, Intelligent and Perceptive. These represent the various approaches that your character can take in resolving obstacles or completing actions within ShadowCatcher. A character also has a score attached to each ability. Your ability score broadly defines your natural talent and skill in each of the five approaches. The higher your score, the better your character is with that approach. Typically, all non-player characters and creatures also have values in the five ability scores.
 
 A score of 2 is considered average for a human adult, with a 5 being the highest achievable for a normal person. Adventurers may have scores as high as 6 and monsters and other powerful beings may be even higher still.
 
