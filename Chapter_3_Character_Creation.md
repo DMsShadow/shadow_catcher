@@ -1,7 +1,7 @@
 ## Chapter 3: Characters
-In order to play a Dreamcatcher game, you will need to create a character. This will represent the person you will play in the game. The information about your character will be recorded on a character sheet. In some instances the GM may have characters prepared for you in advance, but usually you will create your own.
+In order to play a ShadowCatcher game, you will need to create a character. This will represent the person you will play in the game. The information about your character will be recorded on a character sheet. In some instances the GM may have characters prepared for you in advance, but usually you will create your own.
 
-Dreamcatcher aims to make character creation as quick as possible, but it still involves a few steps where you will need to make important decisions about your character.
+ShadowCatcher aims to make character creation as quick as possible, but it still involves a few steps where you will need to make important decisions about your character.
 
 The decisions are laid out below in seven steps that you can follow to create your character.
 ### Step1: Character Premise
@@ -9,7 +9,7 @@ It is always best to start with you initial concept before you make any more dec
 
 Whatever your concept, try to summarise it as a single sentence, and write this in the Character Premise line in the Facets section of the character sheet. Don’t worry about the exact wording, this can always be tweaked as the character develops, but the premise of your character should inform you in the next steps in creating your character.
 ### Step 2: Assign Ability Scores
-At this stage it is now time to think about the mechanics of your character. The outcome of many actions in the game revolves around the numerical values in your character’s abilities. Determining your character’s scores in Dreamcatcher is simply a case of assigning a set of standard scores into each of your character’s abilities: 5, 4, 3, 2, and 1.
+At this stage it is now time to think about the mechanics of your character. The outcome of many actions in the game revolves around the numerical values in your character’s abilities. Determining your character’s scores in ShadowCatcher is simply a case of assigning a set of standard scores into each of your character’s abilities: 5, 4, 3, 2, and 1.
 
 You should remember that as 2 is the human average for an ability, that all those above 2 show an above average talent for the approach, and that only one score (the 1), is below average.
 
@@ -49,7 +49,7 @@ The use of other player characters as your relationships is discouraged as they 
 
 The GM is the final arbiter on which relationships are appropriate to take during the game.
 ### Step 5: Create a special Possession
-Gear and equipment is handled very abstractly in Dreamcatcher. You are assumed to have access to any equipment that fits with your character premise, at the GMs discretion, but these items will not provide you with any mechanical bonus, they are simply aids to roleplaying.
+Gear and equipment is handled very abstractly in ShadowCatcher. You are assumed to have access to any equipment that fits with your character premise, at the GMs discretion, but these items will not provide you with any mechanical bonus, they are simply aids to roleplaying.
 
 Exceptions to this are special possessions that are named on your character sheet. These are items with which have a powerful impact, reputation, you have extra special affinity with, or anything else that makes them stand out from the norm.
 
@@ -84,7 +84,7 @@ Now you have completed these steps you are ready to play your introduction adven
 
 The GM can also allow you at this time to makes some changes to your character’s advantages and hindrances based on your introduction. Ideally, this should represent the dramatic change in their life caused by their experience, but it can also help if you didn’t quite get your abilities right.
 
-The aim of Dreamcatcher games is to work collaboratively with your other party members to ensure you complete goals, quests, missions and the like. This does not mean you have to always agree with each other, but you should work with the GM to ensure that the party is compatible enough to work together without stepping on each other’s toes.
+The aim of ShadowCatcher games is to work collaboratively with your other party members to ensure you complete goals, quests, missions and the like. This does not mean you have to always agree with each other, but you should work with the GM to ensure that the party is compatible enough to work together without stepping on each other’s toes.
 ### Step 9: Character Development
 Character development is done thought a combination of two methods. The facing of your hindrances, and the expenditure of destiny points.
 
