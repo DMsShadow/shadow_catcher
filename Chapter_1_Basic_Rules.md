@@ -1,8 +1,8 @@
 ## Chapter 1: Basic Rules
-The core concept of the ShadowCatcher system revolees around rules of three, and the first such of these are the three main concepts: characters, tests and challenges. In this section we will explore these in turn, looking first at characters.
+The core concept of the ShadowCatcher system revolves around rules of three, and the first such of these are the three main concepts: characters, tests and challenges. In this section we will explore these in turn, looking first at characters.
 
 ### Characters
-In a ShadowCatcher game, each player contorols at least one character. This is the players interface or connection to the game being played, or story being told (depending on how you like to view the experience).
+In a ShadowCatcher game, each player controls at least one character. This is the players interface or connection to the game being played, or story being told (depending on how you like to view the experience).
 
 is that you first describe the actions of what you want your character to do. The GM will then determine if the action can simply take place, or if a test might be needed to determine success. A test use one of your character’s abilities and the dice to determine the final result of a proposed action.
 
