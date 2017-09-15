@@ -1,5 +1,7 @@
 ## Chapter 1: Basic Rules
-The core concept of the ShadowCatcher system revolves around rules of three, and the first such of these are the three main concepts: characters, tests and challenges. In this section we will explore these in turn, looking first at characters.
+The ShadowCatcher system is intended to be rules light while still allowing for a depth of options and the chance for meaningful character development. The system aims to keep rules as consistent as possible and not suffer from rules bloat that often occurs when additional elements (like magic and vehicles) come into play. The crux of the system is the ability test and the challenge, whereby a player will often ask to do something, and if the GM feels there is a need for a roll they will declare a challenge and ask the player to roll one or more tests to determine the outcome.
+
+The main theme running through the ShadowCatcher system is **the rule of threes**, whereby elements break down into three concepts, or numerical factors of three. The first of these we shall look at are the interplay of characters, tests and challenges.
 
 ### Characters
 In a ShadowCatcher game, each player controls at least one character. This is the players interface or connection to the game being played, or story being told (depending on how you like to view the experience).
